@@ -1,0 +1,4 @@
+[submodule "submodules/Adafruit_CircuitPython_HTTPServer"]
+	path = submodules/Adafruit_CircuitPython_HTTPServer
+	url = https://github.com/another-salad/Adafruit_CircuitPython_HTTPServer.git
+	branch = wiznet-w5xxxx-compat
